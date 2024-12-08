@@ -208,4 +208,9 @@ if (isset($_POST['submit']))
 
 <?php require('footer.php'); ?>
 ```
+# Membuat file hapus.php
+![image](https://github.com/user-attachments/assets/003c1156-270c-4b79-87a1-2327dc9322a9)
+# TAMPILAN HOME
+Cara mengaksesnya dengan masuk ke url http://localhost/lab9_tugas/home.php
+![image](https://github.com/user-attachments/assets/89cdc3fa-d899-4fbd-a89b-b1b8807a8c71)
 
