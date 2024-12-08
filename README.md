@@ -19,4 +19,8 @@ Universitas: Universitas Pelita Bangsa
 ![image](https://github.com/user-attachments/assets/809f8520-1e4c-4518-b508-fc9d781389e4)
 # Tampilan home
 ![image](https://github.com/user-attachments/assets/60f9bfd4-92e3-468e-833f-c98b429d884d)
+# Tampilan about
+![image](https://github.com/user-attachments/assets/e4c597af-ab2f-43d8-b433-89a87463cf01)
+# Tugas
+```Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
