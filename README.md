@@ -212,5 +212,8 @@ if (isset($_POST['submit']))
 ![image](https://github.com/user-attachments/assets/003c1156-270c-4b79-87a1-2327dc9322a9)
 # TAMPILAN HOME
 Cara mengaksesnya dengan masuk ke url http://localhost/lab9_tugas/home.php
-![image](https://github.com/user-attachments/assets/89cdc3fa-d899-4fbd-a89b-b1b8807a8c71)
+![image](https://github.com/user-attachments/assets/43f7b41b-520e-4107-9392-8de039b0591e)
+# TAMPILAN TAMBAH BARANG
+![image](https://github.com/user-attachments/assets/82716527-6962-437a-bccb-0c80c5cb11d7)
+
 
