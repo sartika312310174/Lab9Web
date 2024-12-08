@@ -17,6 +17,6 @@ Universitas: Universitas Pelita Bangsa
 ![image](https://github.com/user-attachments/assets/bda7ec0f-73d7-4194-b74f-3aeb03bf98d8)
 # Membuat file dengan nama about.php
 ![image](https://github.com/user-attachments/assets/809f8520-1e4c-4518-b508-fc9d781389e4)
-# Tampilan hasilnya
+# Tampilan home
 ![image](https://github.com/user-attachments/assets/60f9bfd4-92e3-468e-833f-c98b429d884d)
 
