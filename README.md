@@ -47,7 +47,8 @@ die();
 ?>
 ```
 # Membuat file header.php
-![image](https://github.com/user-attachments/assets/15ee1d08-7b8b-401e-8ac7-339ec58df9a0)
+![image](https://github.com/user-attachments/assets/f53a01f2-45fb-43fc-adca-d24089b37483)
+
 ```
 <?php
 include("koneksi.php");
