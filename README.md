@@ -32,53 +32,7 @@ sehingga setiap halamannya memiliki template tampilan yang sama.
 
 # Membuat file koneksi.php
 ![image](https://github.com/user-attachments/assets/967ae13f-5de7-48eb-a1c9-81b0da36002d)
-```
-<?php
-$host = "localhost";
-$user = "root";
-$pass = "";
-$db = "latihan1";
-$conn = mysqli_connect($host, $user, $pass, $db, 3306);
-if ($conn == false)
-{
-    echo "Koneksi ke server gagal.";
-die();
-}
-?>
-```
 # Membuat file header.php
 ![image](https://github.com/user-attachments/assets/f53a01f2-45fb-43fc-adca-d24089b37483)
-
-```
-<?php
-include("koneksi.php");
-
-// query untuk menampilkan data
-$sql = 'SELECT * FROM data_barang';
-$result = mysqli_query($conn, $sql);
-?>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Contoh Modularisasi</title>
-    <link href="style.css" rel="stylesheet" type="text/css" />
-    <style>
-        table { border-collapse: collapse; width: 60%; }
-        th, td { border: 1px solid #ddd; padding: 5px; text-align: left; }
-        th { background-color: #f4f4f4; }
-    </style>
-</head>
-<body>
-    <div id="container">
-        <header>
-            <h1>Database</h1>
-        </header>
-        <nav>
-            <a href="home.php">Home</a>
-            <a href="tambah.php">Tambah Barang</a>
-        </nav>
-```
-
-
+# Membuat file footer.php
+![Screenshot (67)](https://github.com/user-attachments/assets/509122fc-ac60-4d52-b6e9-2ec73116d9cf)
