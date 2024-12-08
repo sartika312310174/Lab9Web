@@ -8,7 +8,7 @@ Universitas: Universitas Pelita Bangsa
 ```
 # PRAKTIKUM 9
 # Membuat Folder Lab9_php_modular
-
+![image](https://github.com/user-attachments/assets/15d970e0-08fe-4d94-bfb0-42cf35103983)
 # Membuat file dengan nama header.php
 ![image](https://github.com/user-attachments/assets/5eedd270-fcb7-4851-9c26-200d8cbcf598)
 # Membuat file dengan nama footer.php
@@ -29,7 +29,7 @@ sehingga setiap halamannya memiliki template tampilan yang sama.
 ```
 # TUGAS
 # Membuat folder baru bernama lab9_tugas
-
+![image](https://github.com/user-attachments/assets/2e421a19-12da-466f-bcab-92d4e38719cf)
 # Membuat file koneksi.php
 ![image](https://github.com/user-attachments/assets/967ae13f-5de7-48eb-a1c9-81b0da36002d)
 # Membuat file header.php
