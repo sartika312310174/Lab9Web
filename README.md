@@ -27,5 +27,24 @@ Implementasikan konsep modularisasi
 pada kode program praktikum 8 tentang database,
 sehingga setiap halamannya memiliki template tampilan yang sama.
 ```
+# TUGAS
+# Membuat folder baru bernama lab9_tugas
+
+# Membuat file koneksi.php
+![image](https://github.com/user-attachments/assets/967ae13f-5de7-48eb-a1c9-81b0da36002d)
+```
+<?php
+$host = "localhost";
+$user = "root";
+$pass = "";
+$db = "latihan1";
+$conn = mysqli_connect($host, $user, $pass, $db, 3306);
+if ($conn == false)
+{
+    echo "Koneksi ke server gagal.";
+die();
+}
+?>
+```
 
 
