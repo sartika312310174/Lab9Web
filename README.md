@@ -212,8 +212,12 @@ if (isset($_POST['submit']))
 ![image](https://github.com/user-attachments/assets/003c1156-270c-4b79-87a1-2327dc9322a9)
 # TAMPILAN HOME
 Cara mengaksesnya dengan masuk ke url http://localhost/lab9_tugas/home.php
-![image](https://github.com/user-attachments/assets/43f7b41b-520e-4107-9392-8de039b0591e)
+![Gambar WhatsApp 2024-12-10 pukul 13 44 20_00da7823](https://github.com/user-attachments/assets/f2e74c6f-8853-4ae9-af6d-2f359f1b9662)
 # TAMPILAN TAMBAH BARANG
 ![image](https://github.com/user-attachments/assets/82716527-6962-437a-bccb-0c80c5cb11d7)
+# Membuat file about.php
+![image](https://github.com/user-attachments/assets/656e7c79-9e6c-47e1-881e-10545a7405df)
+# TAMPILAN about
+![Gambar WhatsApp 2024-12-10 pukul 13 44 38_3e09c872](https://github.com/user-attachments/assets/e009f66b-76fc-4a6a-a674-90be5b6dad17)
 
 
